@@ -1,19 +1,19 @@
-# 🧠 Deep Learning Guides
- 
-Welcome to the **Deep Learning Guides** repository!  
+# Deep Learning Guides
+
+Welcome to the **Deep Learning Guides** repository!
+
 This repo is a curated collection of practical deep learning projects and code examples, built to help you understand and apply deep learning techniques effectively.
 
 Each file contains standalone code — no theory dumps, just code that works.
 
-## 🧰 What's Inside
+## What's Inside
 
-- ✅ Hands-on deep learning code examples
-- ✅ Real-world tasks using PyTorch, TensorFlow, and Keras
-- ✅ Clean, beginner-friendly implementations
-- ✅ Focused on practical use, not academic theory
+* Hands-on deep learning code examples
+* Real-world tasks using PyTorch, TensorFlow, and Keras
+* Clean, beginner-friendly implementations
+* Focused on practical use, not academic theory
 
- 
-## 🎯 Goal
+## Goal
 
 This repository is built to:
 
@@ -21,11 +21,6 @@ This repository is built to:
 * Serve as a **reference** for common DL use cases
 * Provide **ready-to-run scripts** for personal or academic projects
 
-
-## 🤝 Contributions
+## Contributions
 
 This is a personal repo. You’re welcome to fork it, use it, or suggest improvements via pull requests or issues.
-
-
-Let me know if you're planning to organize your guides by framework (e.g., TensorFlow, PyTorch) or by topic (e.g., NLP, CV), and I can adjust the structure accordingly.
-```
